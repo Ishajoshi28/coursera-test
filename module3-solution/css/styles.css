@@ -6,12 +6,12 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #000000;
+	color: blacks;
 }
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #5F9EA0;
 
 }
 
@@ -31,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color:#FFE4B5;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -79,7 +79,6 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #6495ED;
-	color: white;
 	padding: 5px;
 }
 
@@ -101,13 +100,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: black;
 }
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
-  color: #FFFFFF;
+  background-color:#FFE4B5;
+  color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,23 +118,23 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: black;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: black;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: white;
+  color: #FFFFFF;
 }
 
 hr {
-  border-color: white;
+  border-color: black;
 }
 
 .item {
-  color: white;
+  color: black;
   font-size: 1.2em;
 }
